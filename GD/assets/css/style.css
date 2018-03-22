@@ -1,0 +1,34 @@
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.first{
+	
+background-color:#e6f0ff;	
+height:120px;
+}
+.icon{
+	
+	margin-top:10px;
+}
+.navup{
+    background-color:#e3f2fd;
+    height: 70px;
+
+
+}
+.secondnav{
+    background-color:skyblue;
+	
+
+
+
+}
+
+.caro{
+
+    position: relative;
+    margin-top: -20px;
+}

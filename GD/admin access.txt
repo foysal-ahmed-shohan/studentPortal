@@ -1,0 +1,15 @@
+1. go to 
+
+www.yousite.com/gdadmin
+localhost/gdadmin
+
+2. then enter email and pasword
+
+email: sohan@mail.com
+password: shohan
+
+
+submit
+
+then you can change password from
+change password option on sidebar

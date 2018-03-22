@@ -1,0 +1,28 @@
+body{
+    background-image: url("../../image/adminLogin1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.adminPanel{
+    background-color: unset;
+    background-image: none;
+    color:white;
+    font-weight: bold;
+}
+.addEmployee {
+    background-color: unset;
+    background-image: none;
+    color:wheat;
+    font-weight: bold;
+    font-size:18px;
+}
+.adminNotice {
+    background-color: unset;
+    background-image: none;
+    color:white;
+    font-weight: bold;
+    font-size:18px;
+}
+.forget{color:darkred;}
+.adminLoginH2{color:wheat;font-size:50px;}
+.dashA:hover{text-decoration: none;}
